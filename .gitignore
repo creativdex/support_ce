@@ -1,0 +1,8 @@
+config.ini
+__pycache__/bot_bx.cpython-310.pyc
+__pycache__/bot_create.cpython-310.pyc
+__pycache__/bot_sql.cpython-310.pyc
+handlers/__pycache__/__init__.cpython-310.pyc
+handlers/__pycache__/alert.cpython-310.pyc
+handlers/__pycache__/registration.cpython-310.pyc
+activate.bat
